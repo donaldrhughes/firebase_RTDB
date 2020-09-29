@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "136038481702",
+    "firebase_url": "https://fb-android3.firebaseio.com",
+    "project_id": "fb-android3",
+    "storage_bucket": "fb-android3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136038481702:android:3cddc2d60d74b536ec8be7",
+        "android_client_info": {
+          "package_name": "com.capella.fbproto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136038481702-li9ns2kk7mape4sdf5ihu7u4l1r8559l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqWaaOEsBzbmrX9dzX5Z91blKKssTYYAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136038481702-li9ns2kk7mape4sdf5ihu7u4l1r8559l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
